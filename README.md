@@ -1,4 +1,5 @@
 # CAT-VAE: A Cross-Attention Transformer-Enhanced Variational Autoencoder for Improved Image Synthesis
+DOI: 10.19139/soic-2310-5070-2546
 
 This repository contains the implementation and results of the paper titled **"CAT-VAE: A Cross-Attention Transformer-Enhanced Variational Autoencoder for Improved Image Synthesis"**.
 
